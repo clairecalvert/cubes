@@ -1,0 +1,17 @@
+* {
+  background-color: #99FF99;
+}
+li {
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: blue;
+}
+
+div {
+  background-color: red;
+}
+
+p {
+  font-family: cursive;
+}
